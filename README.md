@@ -1,3 +1,32 @@
+# Smart-Brain Personal Project
+Developed side project while taking Andrei Neagoie's Complete Web Developer Course on Udemy.
+
+## About
+Full-stack React.JS web app that uses a Machine Learning API from Clarifai to identify faces on images.
+
+Allows users to create accounts and login to track number of images processed.
+
+----
+
+Using a backend server developed using Node.JS and Express.JS, hosted REST API to handle requests and responses to process tasks (register account, login, detect faces on image).
+
+Used Tachyons npm package to help build responsive interface.
+
+Deployed React App and REST API using heroku platform.
+
+## Technologies Used:
+
+-   React.JS
+-   Node.JS
+-   Express.JS
+-   PostgresQL Database
+-   Heroku
+-   Clarifai API
+
+
+## Usage
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
