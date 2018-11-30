@@ -27,7 +27,7 @@ class Register extends React.Component{
 
     //on sign in submit, send user login info to server to login verify with a json response, if successful then direct to home page of app, error and remain at login page otherwise
     onSubmitSignIn = () => {
-        fetch('http://localhost:3000/register', {
+        fetch('https://smart-brain-dl-api.herokuapp.com/register', {
             method: 'post',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
