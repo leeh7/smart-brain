@@ -1,6 +1,7 @@
 # Smart-Brain Personal Project
 Developed side project while taking Andrei Neagoie's Complete Web Developer Course on Udemy.
 
+[Link to Web App](https://smartbrain-dl.herokuapp.com/)
 ## About
 Full-stack React.JS web app that uses a Machine Learning API from Clarifai to identify faces on images.
 
